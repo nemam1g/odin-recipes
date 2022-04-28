@@ -1,0 +1,59 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+.odd {
+    background-color: rgb(rgb(255, 0, 85), green, blue);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#third {
+    font-size: 24px;
+}
+#forth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.dugme1,
+.dugme2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.dugme1{
+    background-color: black;
+    color: white;
+}
+.dugme2 {
+    background-color: yellow;
+}
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
